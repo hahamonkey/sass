@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACA,GAAG,CACC,UAAU,CAFP,KAAK,CAGR,KAAC,CACG,SAAS,CAAC,IAAI",
+"sources": ["test.scss"],
+"names": [],
+"file": "test.css"
+}
